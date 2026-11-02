@@ -1,8 +1,0 @@
-{
-  "name": "lostcoin-hunter",
-  "version": "0.1.0",
-  "private": true,
-  "description": "Read-only public blockchain address discovery and monitoring MVP",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=20" }
-}
